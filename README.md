@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaibhav-sharma-1805" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="vaibhav-sharma-1805" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vaibhav-sharma-1805" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="vaibhav-sharma-1805" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
