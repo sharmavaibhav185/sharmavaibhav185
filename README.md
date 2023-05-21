@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java 8, Spring Boot**
 
-- 💬 Ask me about **Java, OOPS, Hibernate, Sonar,Design Pattern etc**
+- 💬 Ask me about **Java, OOPS, Hibernate, Sonar,Design Pattern, Spring Boot, Microservices etc**
 
 - 📫 How to reach me **sharmavaibhav185@gmail.com**
 
-- ⚡ Fun fact **4+ years of experience in working with Struts, Hibernate & Design Patterns and proficient in technologies such as Core Java, Collections, Spring Boot,OOPS and MySQL with analytical and communication skills and passion to grow in my field.**
+- ⚡ Fun fact **5 years of experience in working with Hibernate & Design Patterns and proficient in technologies such as Core Java, Collections, Spring Boot,OOPS and MySQL with analytical and communication skills and passion to grow in my field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
